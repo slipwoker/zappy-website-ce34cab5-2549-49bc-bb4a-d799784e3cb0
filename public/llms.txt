@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+תכשיטים ייחודיים בעיצוב אישי שנולדו מהשראת הים והיער. כל פריט הוא יצירת אומנות שמספרת סיפור טבעי. גלי את הקולקציה ומצאי את התכשיט שמדבר אליך.
+
+### אומנות
+https://example.com/craftsmanship
+אומנות התכשיטים של ים ויער משלבת חומרים טבעיים עם עיצוב מיוחד ומדויק. כל פריט עובר תהליך יצירה קפדני שמשקף נוי אמיתי ורוח ייחודית. גלי כיצד נוצרת המלאכה.
+
+### אודות
+https://example.com/about
+ים ויער נולד מתוך אהבה עמוקה לטבע ולנוי שהוא מציע. הכירי את הברנד שמאמין שכל אישה ראויה לתכשיטים ייחודיים בעיצוב אישי שמשקפים את עולמה הפנימי. זו לא רק תכשיטאות — זו פילוסופיה.
+
+### צור קשר
+https://example.com/contact
+רוצה תכשיטי עיצוב מיוחדים לאירועים או פריט מותאם אישית? צרי קשר עם ים ויער ונהפוך את הרעיון שלך לתכשיט נוי שתאהבי לכל החיים. אנחנו כאן וממתינים לשמוע ממך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - ים ויער
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ים ויער
+
+### Category
+https://example.com/category/:slug
+מוצרים - ים ויער
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
