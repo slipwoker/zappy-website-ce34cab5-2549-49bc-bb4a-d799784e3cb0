@@ -2672,19 +2672,17 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   border-radius: 0;
 }
 
-/* ── Scrim Overlay ── */
 .index-hero-section .index-hero-scrim {
   position: absolute;
   inset: 0;
   z-index: 1;
   pointer-events: none;
-  background-image:
-    linear-gradient(
+  background-image: linear-gradient(
       to top,
-      rgba(30, 22, 8, 0.88) 0%,
-      rgba(30, 22, 8, 0.72) 25%,
-      rgba(30, 22, 8, 0.38) 55%,
-      rgba(30, 22, 8, 0.10) 80%,
+      rgba(30, 22, 8, 0.62) 0%,
+      rgba(30, 22, 8, 0.42) 25%,
+      rgba(30, 22, 8, 0.18) 55%,
+      rgba(30, 22, 8, 0.05) 80%,
       rgba(30, 22, 8, 0.00) 100%
     );
 }
