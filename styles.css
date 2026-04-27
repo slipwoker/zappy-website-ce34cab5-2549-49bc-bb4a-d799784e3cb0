@@ -12539,6 +12539,20 @@ body.accessibility-widget-visible ._access-menu {
     display: none;
   }
 }
+
+.index-hero-section .index-hero-scrim {
+  background-image: linear-gradient(
+    to top,
+    rgba(30, 22, 8, 0.20) 0%,
+    rgba(30, 22, 8, 0.10) 30%,
+    rgba(30, 22, 8, 0.03) 60%,
+    rgba(30, 22, 8, 0.00) 100%
+  ) !important;
+}
+
+.index-cta-section .index-cta-overlay {
+  background: rgba(20, 15, 5, 0.35) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
