@@ -2679,10 +2679,10 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   pointer-events: none;
   background-image: linear-gradient(
       to top,
-      rgba(30, 22, 8, 0.62) 0%,
-      rgba(30, 22, 8, 0.42) 25%,
-      rgba(30, 22, 8, 0.18) 55%,
-      rgba(30, 22, 8, 0.05) 80%,
+      rgba(30, 22, 8, 0.45) 0%,
+      rgba(30, 22, 8, 0.25) 25%,
+      rgba(30, 22, 8, 0.08) 55%,
+      rgba(30, 22, 8, 0.02) 80%,
       rgba(30, 22, 8, 0.00) 100%
     );
 }
@@ -12141,6 +12141,10 @@ body.accessibility-widget-visible ._access-menu {
 .nav-cta-btn { color: #FFFFFF !important; }
 /* === BUTTON TEXT OVERRIDES END === */
 
+
+.index-hero-section .index-hero-bg img {
+  filter: brightness(1.15) saturate(1.25);
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
