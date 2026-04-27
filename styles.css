@@ -143,12 +143,12 @@
   --secondary: #78C98A;
   --accent: #D4A62A;
   --bg-light: #FFFFFF;
-  --bg-dark: #2B2B2B;
+  --bg-dark: #4A4A4A;
   --text-dark: #4A4A4A;
   --text-light: #F4F5F7;
   --text-muted: #707070;
   --border-light: #898b8e;
-  --border-dark: #7e7e7e;
+  --border-dark: #989898;
   --nav-bg: transparent;
   --nav-text: #F4F5F7;
   --nav-text-hover: #D4A62A;
@@ -173,7 +173,7 @@
 
   --gradient-primary: linear-gradient(180deg, #6F9526 0%, #4E6E18 100%);
   --gradient-gold-shine: linear-gradient(180deg, #F4E29A 0%, #DBB44A 42%, #A58121 100%);
-  --gradient-secondary: linear-gradient(180deg, #D6302D 0%, #B02522 100%);
+  --gradient-secondary: linear-gradient(180deg, #D62E2A 0%, #B02522 100%);
   --gradient-gold-accent: linear-gradient(90deg, #A58121 0%, #E4C778 50%, #BB9225 100%);
   --gradient-dark-section: linear-gradient(180deg, rgba(84,79,30,0.78) 0%, rgba(74,67,24,0.52) 40%, rgba(56,52,20,0.2) 100%);
   --gradient-overlay-dark: linear-gradient(180deg, rgba(54,48,20,0.22) 0%, rgba(54,48,20,0.1) 100%);
@@ -816,12 +816,12 @@ textarea::placeholder {
   --secondary: #78C98A;
   --accent: #D4A62A;
   --bg-light: #FFFFFF;
-  --bg-dark: #2B2B2B;
+  --bg-dark: #4A4A4A;
   --text-dark: #4A4A4A;
   --text-light: #F4F5F7;
   --text-muted: #707070;
   --border-light: #898b8e;
-  --border-dark: #7e7e7e;
+  --border-dark: #989898;
 }
 
 .navbar {
@@ -1082,12 +1082,12 @@ textarea::placeholder {
   --secondary: #78C98A;
   --accent: #D4A62A;
   --bg-light: #FFFFFF;
-  --bg-dark: #2B2B2B;
+  --bg-dark: #4A4A4A;
   --text-dark: #4A4A4A;
   --text-light: #F4F5F7;
   --text-muted: #707070;
   --border-light: #898b8e;
-  --border-dark: #7e7e7e;
+  --border-dark: #989898;
 }
 
 .navbar {
@@ -2252,10 +2252,10 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   --primary: #D62E2A;
   --secondary: #78C98A;
   --accent: #D4A62A;
-  --bg-dark: #2B2B2B;
+  --bg-dark: #4A4A4A;
   --text-light: #F4F5F7;
   --text-muted: #707070;
-  --border-dark: #7e7e7e;
+  --border-dark: #989898;
   --footer-bg: #1C1C1A;
   --footer-surface: #252522;
   --gold: #D4A62A;
@@ -12127,6 +12127,8 @@ body.accessibility-widget-visible ._access-menu {
   }
 }
 /* /Zappy custom logo size */
+
+
 
 /* === BUTTON TEXT OVERRIDES START === */
 .btn-secondary,
